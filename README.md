@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Tim 
 
-<!--
-**TimP26/TimP26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a malaria modeler with the **Malaria Atlas Project**. My work focuses on using statistical and modeling tools to generate actionable insights for understanding malaria burden. I aim to inform evidence-based intervention strategies and vector control policies to combat malaria globally.  
 
-Here are some ideas to get you started:
+## 🌟 What I’m Passionate About  
+- **Statistical Insights**: Leveraging data to provide clear and reliable estimates of malaria burden.  
+- **Intervention Strategies**: Translating data into actionable policies for effective malaria control.  
+- **Vector Control**: Studying and modeling the impact of interventions on malaria transmission.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Projects  
+- Supporting the Malaria Atlas Project's goal of mapping and modeling malaria prevalence and incidence.  
+
+## 🌍 Let’s Connect!  
+Feel free to reach out if you’re interested in collaborating, discussing malaria modeling, or learning more about the Malaria Atlas Project.  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)  
